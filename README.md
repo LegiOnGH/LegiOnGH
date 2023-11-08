@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LegiOnGH
-- 👀 I’m interested in Android Development 
-- 🌱 I’m currently learning HTML, Python, C++
+- 👀 I’m interested in Game Development 
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing as of now
 
 <!---
