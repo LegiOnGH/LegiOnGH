@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LegiOnGH
+- 👋 Hi, I’m Priyanshu
 - 👀 I’m interested in Game Development 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing as of now
