@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu
-- 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Data Engineering 
+- 🌱 I’m currently learning Python, SQL, LINUX, Airflow
 - 💞️ I’m looking to collaborate on nothing as of now
 
 <!---
